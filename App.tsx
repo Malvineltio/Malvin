@@ -15,7 +15,9 @@ import {
   Text,
   useColorScheme,
   View,
+  TouchableHighlight
 } from 'react-native';
+
 
 import {
   Colors,
